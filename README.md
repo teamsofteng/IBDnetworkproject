@@ -3,4 +3,4 @@ Determined how the biologically active ingredients of tea (green and black), par
 Programming language used: Python;
 Network tool: Cytoscape; 
 Databases used: KEGG Database;
-Please note the final project deliverable project report has been uploaded.
+Please note the final project deliverable report has been uploaded.
